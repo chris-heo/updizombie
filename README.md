@@ -2,7 +2,7 @@
 
 Imagine running python code on a microcontroller without actually running the code on the microcontroller. No compiling, no memory limits, just UART. But it's dead slow.
 
-A short live-demo can be seen on [YouTube](https://youtu.be/V2lWdkleoUI).
+A short live-demo can be seen on [YouTube](https://youtu.be/_P3E_l8vl1U).
 
 # Working principle
 With UPDI, the new generation of ~~Atmel~~ Microchip microcontrollers offer a simple interface to program and debug the chips.
